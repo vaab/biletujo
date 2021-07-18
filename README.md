@@ -1,12 +1,16 @@
 # BILETUJO #
+
 Com-Chain multi-currency Wallet
 
-## History 
+
+## History
+
 Free and open-source Client for ethereum token based currency and
 barter systems.  It was forked from MyEthereumWallet then reworked,
 customized by Florian and Dominique on behalf of Monnaie Leman the
 Leman Lake Local Currency. A multi-currency version has been created
 and is maintained by Com-Chain (see com-chain.org)
+
 
 ## Features
 
@@ -32,6 +36,7 @@ are the most important.
 - If it can be hacked, it will be hacked: Never save, store, or
   transmit secret info, like passwords or keys. Open source &
   auditable.
+
 
 ## Contact
 
